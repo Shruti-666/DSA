@@ -15,7 +15,7 @@ int main()
     //     }
     // }
     int j=0;
-    while(*word[i+j]!='/0'){
+    while(word[i+j]!='/0'){
         i++;
 
     }

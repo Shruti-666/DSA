@@ -24,7 +24,6 @@ int main(){
     int arr[]={4,8,6,2,5,0};
     int n = sizeof(arr)/sizeof(arr[0]);
     SelectionSort(arr,n);
-    // cout<<"Sorted array" << answer;
     cout<<endl;
 
 }
